@@ -1,6 +1,6 @@
 adapters:
   admaru:
-    endpoint: http://p1.admaru.net/bidreq
+    endpoint: https://p1.admaru.net/AdCall
     meta-info:
       maintainer-email: m4292007@gmail.com
       app-media-types:
