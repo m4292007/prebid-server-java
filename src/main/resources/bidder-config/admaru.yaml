@@ -1,0 +1,11 @@
+adapters:
+  admaru:
+    endpoint: http://p1.admaru.net/bidreq
+    meta-info:
+      maintainer-email: m4292007@gmail.com
+      app-media-types:
+        - banner
+      site-media-types:
+        - banner
+      supported-vendors:
+      vendor-id: 0

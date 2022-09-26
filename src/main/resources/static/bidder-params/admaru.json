@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Admaru Adapter Params",
+  "description": "A schema which validates params accepted by the Admaru adapter",
+  "type": "object",
+  "properties": {
+    "adspaceid": {
+      "type": "string",
+      "description": "ID for adspace"
+    },
+    "pubid": {
+      "type": "string",
+      "description": "ID for publisher"
+    }
+  },
+  "required": ["adspaceid","pubid"]
+}
