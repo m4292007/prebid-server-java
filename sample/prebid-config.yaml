@@ -1,5 +1,7 @@
 status-response: "ok"
 adapters:
+  admaru:
+    enabled: true
   rubicon:
     enabled: true
     XAPI.Username: user1
