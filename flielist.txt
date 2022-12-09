@@ -1,0 +1,16 @@
+resources/bidder-config/admaru.yaml
+resources/static/bidder-params/Admaru.json
+org/prebid/server/proto/openrtb/ext/request/Admaru/ExtImpAdmaru.java
+org/prebid/server/bidder/Admaru/AdmmaruBidder.java
+org/prebid/server/spring/config/bidder/AdmaruConfiguration.java
+
+test directory:
+    resources/org/prebid/server/it/test-application.properties
+    resources/org/prebid/server/it/openrt2/admaru/test-auction-admaru-request.json
+    resources/org/prebid/server/it/openrt2/admaru/test-auction-admaru-response.json
+    resources/org/prebid/server/it/openrt2/admaru/test-admaru-bid-request.json
+    resources/org/prebid/server/it/openrt2/admaru/test-admaru-bid-response.json
+    resources/org/prebid/server/it/openrt2/admaru/test-cache-Admaru-request.json
+    resources/org/prebid/server/it/openrt2/admaru/test-cache-Admaru-response.json
+    org/prebid/server/bidder/Admaru/AdmaruBidderTest.java
+    org/prebid/server/it/AdmaruTest.java
